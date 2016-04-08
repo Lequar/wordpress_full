@@ -43,3 +43,7 @@ define('DB_CHARSET', 'utf8mb4');
 define('DB_COLLATE', '');
 ```
 - Nuestro Wordpress esta listo para usar.
+
+# Importante! Este Wordpress no contiene ningun tema, simplemente es la base, para integrar el tema sigue este enlace.
+
+(https://github.com/Lequar/theme_wordpress "Theme for wordpress")
