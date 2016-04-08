@@ -61,7 +61,6 @@ define('NONCE_SALT', 'qH=]9<gVn>MEqNB67|74<iWCEX57}Vxx->$]BG5t@|k#+r!*a58?vwg}kv
  */
 $table_prefix  = 'bw_';
 
-
 /**
  * Para desarrolladores: modo debug de WordPress.
  *
