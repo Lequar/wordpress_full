@@ -22,7 +22,7 @@ Ingresamos en la carpeta y encontraremos una lista de archivos.
 y encontraremos un SQL llamado "base_wordpress.sql", esta es nuestra base de datos asi que inmediatamente nos iremos a nuestro gestor de base de datos y crearemos una bd, con el nombre que deseamos, ejemplo "sitio.com" la base de datos se llamaria "sitio".
 - Entramos e importamos la base de datos. (Ya tenemos la BD para conectarlo con nuestro Wordpress).
 - Ahora configuramos el archivo "wp-config.php"
-```
+```shell
 // ** Ajustes de MySQL. Solicita estos datos a tu proveedor de alojamiento web. ** //
 /** El nombre de tu base de datos de WordPress */
 define('DB_NAME', 'base_wordpress');
